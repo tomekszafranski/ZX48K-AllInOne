@@ -26,7 +26,7 @@ This is based on East London Robotics SP80 Memory Extension that using simple lo
 
 Since W27C512 EEPROM (64KB) is used there is the possibility to have four different ROMS configurable with two jumpers (EEPROM's A15 and A14 lines).
 
-**External Keyboard connector**
+**External keyboard connector**
 
 There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keybord Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adpater from ZX48K-RC2014 project.
 
