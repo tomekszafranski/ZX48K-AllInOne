@@ -20,16 +20,15 @@ Commonly used version of Kempston joystick interface. It can be disabled by jump
 
 **80KB of RAM**
 
-This is based on East London Robotics SP80 Memory Extension that uses remaing 32KB of Upper RAM (while using fully working 4164 chips) for simple bank switching. However, activaton address 65407/49023 has been changed to 7FFDh (32765) as it interfered with my divMMC interface. OUT 7FFDh,x command switches upper 32KB of RAM (for the first time that resets computer as the stack is cleared). If not needed you can use jumper to come back to original 32KB version. See how it works in [HappyLittleDiodes video](https://www.youtube.com/watch?v=CDxwBFpwiEk). 
+This is based on East London Robotics SP80 Memory Extension that using simple logic utilitizes remaing 32KB of Upper RAM (while using fully working 4164 chips) for simple bank switching. However, activation address 65407/49023 has been changed to 32765 (7FFDh) as it interfered with divMMC interface. OUT 32765,x command switches banks of upper 32KB RAM (for the first time that resets computer as the stack is cleared). If not needed can be disabled by jumper. For more info on how it works, see [HappyLittleDiodes video](https://www.youtube.com/watch?v=CDxwBFpwiEk). 
 
 **EEPROM selector**
 
-Since W27C512 EEPROM (64KB) is used you have the possibility to have four different ROMS configurable with two jumpers for EEPROM's A15 and A14 lines.
+Since W27C512 EEPROM (64KB) is used there is the possibility to have four different ROMS configurable with two jumpers (EEPROM's A15 and A14 lines).
 
 **External Keyboard connector**
 
-There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keybord Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). 
-You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adpater from ZX48K-RC2014 project.
+There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keybord Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adpater from ZX48K-RC2014 project.
 
 
 ## Board
