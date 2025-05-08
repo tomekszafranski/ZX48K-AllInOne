@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an upgraded version of previous ZX48K-Essentials project (ZX Spectrum 48K clone based on vLA82S+ ULA replacement). It adds couple of useful modifications you would like to see in nowadays ZX Spectrum.
+This is an upgraded version of previous [ZX48K-Essentials](https://github.com/tomekszafranski/ZX48K-Essentials) project (ZX Spectrum 48K clone based on vLA82S+ ULA replacement). It adds couple of useful modifications you would like to see in nowadays ZX Spectrum.
 
 Again, it has to be said that this is not by any means revoluotinary work. There are similar projects out there, this is simply my take on the subject.
 
