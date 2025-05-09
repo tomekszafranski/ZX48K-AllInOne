@@ -39,7 +39,7 @@ Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a
 
 ## Remarks
 
-* Decoupling 100nF capacitors are unmarked and located near most of the ICs.
+* 17 decoupling 100nF capacitors are unmarked and located near most of the ICs.
 
 * vLA82S+ is equiped with write-only AY-3-8910 Sound emulator so if not needed Turbo sound section can be ommited.
 
