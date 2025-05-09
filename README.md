@@ -33,6 +33,10 @@ There is IDC16 connector for external keyboard. I don't know about any standard 
 
 ## Board
 
+KiCad 
+
+![ZX48K-AllInOne_board](https://github.com/user-attachments/assets/2007c883-72d8-415d-9168-c41c120f3f49)
+
 Fully asembled ZX48K-AllInOne PCB in purple. 
 
 Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a-diagnostic-rom-image-for-the-zx-spectrum/), [divMMC Future](https://www.tfw8b.com/product/divmmc-future-sinclair-zx-spectrum/), ZX Interface 2 and [MaxDuino](https://lotharek.pl/productdetail.php?id=409).
