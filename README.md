@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an upgraded version of previous [ZX48K-Essentials](https://github.com/tomekszafranski/ZX48K-Essentials) project (ZX Spectrum 48K clone based on vLA82S+ ULA replacement). It adds couple of useful modifications you would like to see in nowadays version of ZX Spectrum.
+This is an upgraded version of previous [ZX48K-Essentials](https://github.com/tomekszafranski/ZX48K-Essentials) project (minimal ZX Spectrum 48K clone based on vLA82S+ ULA replacement). It adds couple of useful modifications you would like to see in nowadays version of ZX Spectrum.
 
 Again, it has to be said that this is not by any means revolutionary work. There are similar projects out there, this is simply my take on the subject.
 
@@ -28,7 +28,7 @@ Since W27C512 EEPROM (64KB) is used there is the possibility to have four differ
 
 **External keyboard connector**
 
-There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keybord Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adpater from ZX48K-RC2014 project.
+There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keybord Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adpater from [ZX48K-RC2014](https://github.com/tomekszafranski/ZX48K-RC2014) project.
 
 
 ## Board
