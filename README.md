@@ -45,7 +45,7 @@ Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a
 
 * 17 decoupling 100nF capacitors are unmarked and located near most of the ICs.
 
-* vLA82S+ is equipped with write-only AY-3-8910 sound generator so if not needed Turbo sound section can be omitted.
+* vLA82S+ is equipped with sound generator so if not needed Turbo Sound section can be omitted.
 
 
 Have fun!
