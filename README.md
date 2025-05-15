@@ -39,16 +39,15 @@ KiCad
 
 Fully assembled ZX48K-AllInOne PCB in purple. 
 
-[here]
-
 Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a-diagnostic-rom-image-for-the-zx-spectrum/), [divMMC Future](https://www.tfw8b.com/product/divmmc-future-sinclair-zx-spectrum/), ZX Interface 2 and [MaxDuino](https://lotharek.pl/productdetail.php?id=409).
+
+[here]
 
 ## Remarks
 
-* 17 decoupling 100nF capacitors are unmarked and located near most of the ICs.
+* Unmarked components located near most of the ICs are 100nF decoupling capacitors.
 
 * vLA82S+ is equipped with sound generator so if not needed Turbo Sound section can be omitted.
-
 
 Have fun!
 
