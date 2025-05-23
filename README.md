@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an upgraded version of previous [ZX48K-Essentials](https://github.com/tomekszafranski/ZX48K-Essentials) project (minimal ZX Spectrum 48K clone based on vLA82S+ ULA replacement). It adds couple of useful modifications you would like to see in nowadays version of ZX Spectrum.
+This is an upgraded version of previous [ZX48K-Essentials](https://github.com/tomekszafranski/ZX48K-Essentials) project (minimal ZX Spectrum 48K clone based on vLA82S+ ULA replacement). It adds couple of useful modifications we would like to see in nowadays version of ZX Spectrum.
 
 Again, it has to be said that this is not by any means revolutionary work. There are similar projects out there, this is simply my take on the subject.
 
@@ -12,7 +12,7 @@ Compared to ZX48K-Essentials board, following modification have been added.
 
 **Turbo Sound extension**
 
-Turbo Sound extension is based on original work of [NedoPC](http://www.nedopc.com/TURBOSOUND/ts.php) however, no output amplifier is used. Turbo Sound gives you 6 channels output. Both Yamaha YM2149F or AY-3-8910 chips can be used. Channel mapping is ABC. Stereo output is always available through additional jack connector. Mono TV sound can be selected by jumper (instead of output from vLA82S+ that has built-in write-only AY-compatible sound generator). Turbo Sound operation can be tested with AYtest_0.2.tap program.
+Turbo Sound extension is based on original work of [NedoPC](http://www.nedopc.com/TURBOSOUND/ts.php) however, no output amplifier is used. Turbo Sound gives you 6 channels output. Clock divider is included so both Yamaha YM2149F or AY-3-8910 chips can be used. Channel mapping is ABC. Stereo output is available through additional jack connector. Mono TV sound can be selected by jumper (instead of output from vLA82S+ that has built-in write-only AY-compatible sound generator). Turbo Sound operation can be tested with AYtest_0.2.tap program (author unknown, but big thanks!).
 
 **Kempston joystick interface**
 
@@ -20,11 +20,11 @@ Commonly used version of Kempston joystick interface with on/off jumper to disab
 
 **80KB of RAM**
 
-This is based on East London Robotics SP80 Memory Extension that using simple logic utilitizes remaining 32KB of Upper RAM (while using fully working 4164 chips) for simple bank switching. However, activation address 65407/49023 has been changed to 32765 (7FFDh) as it interfered with divMMC interface. OUT 32765,x command switches banks of upper 32KB RAM (for the first time that resets computer as the stack is cleared). If not needed can be disabled by jumper. For more info on how it works, see [HappyLittleDiodes video](https://www.youtube.com/watch?v=CDxwBFpwiEk). 
+This is based on East London Robotics SP80 Memory Extension which using simple logic utilitizes Spectrum's remaining 32KB of Upper RAM (while using fully working 4164 chips) for simple bank switching. However, original activation address 65407/49023 has been changed to 32765 (7FFDh) as it interfered with divMMC interface. OUT 32765,x command switches banks of upper 32KB RAM (for the first time that resets computer as the stack is cleared). If not needed or incompatible can be disabled by jumper. For more info on how it works, see great [HappyLittleDiodes video](https://www.youtube.com/watch?v=CDxwBFpwiEk). 
 
 **EEPROM selector**
 
-Since W27C512 EEPROM (64KB) is used there is the possibility to have four different ROMS configurable with two jumpers (EEPROM's A15 and A14 lines).
+Since W27C512 EEPROM (64KB) is used there is the possibility to have four different ROMS - configurable with two jumpers (EEPROM's A15 and A14 lines).
 
 **External keyboard connector**
 
