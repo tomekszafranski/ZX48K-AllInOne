@@ -20,7 +20,7 @@ Commonly used version of Kempston joystick interface with on/off jumper to disab
 
 **80KB of RAM**
 
-This is based on East London Robotics SP80 Memory Extension which using simple logic utilitizes Spectrum's remaining 32KB of Upper RAM (while using fully working 4164 chips) for simple bank switching. However, original activation address 65407/49023 has been changed to 32765 (7FFDh) as it interfered with divMMC interface. OUT 32765,x command switches banks of upper 32KB RAM (for the first time that resets computer as the stack is cleared). If not needed or incompatible can be disabled by jumper. For more info on how it works, see great [HappyLittleDiodes video](https://www.youtube.com/watch?v=CDxwBFpwiEk). 
+This is based on East London Robotics SP80 Memory Extension which using simple logic utilitizes Spectrum's remaining 32KB of Upper RAM (while using fully working 4164 chips) for simple bank switching. However, original activation address 65407/49023 has been changed to 32765 (7FFDh) as it seems to interfere with divMMC interface. OUT 32765,x command switches banks of upper 32KB RAM (for the first time that resets computer as the stack is cleared). If not needed or incompatible can be disabled by jumper. For more info on how it works, see great [HappyLittleDiodes video](https://www.youtube.com/watch?v=CDxwBFpwiEk). 
 
 **EEPROM selector**
 
