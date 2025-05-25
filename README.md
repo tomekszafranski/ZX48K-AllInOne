@@ -28,7 +28,7 @@ Since W27C512 EEPROM (64KB) is used there is the possibility to have four differ
 
 **External keyboard connector**
 
-There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adapter from [ZX48K-RC2014](https://github.com/tomekszafranski/ZX48K-RC2014) project.
+There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adapter from ZX48K-RC2014 project.
 
 
 ## Board
@@ -37,9 +37,7 @@ KiCad project of the board.
 
 ![ZX48K-AllInOne_board](https://github.com/user-attachments/assets/2007c883-72d8-415d-9168-c41c120f3f49)
 
-Fully assembled ZX48K-AllInOne PCB in purple below.
-
-Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a-diagnostic-rom-image-for-the-zx-spectrum/), [divMMC Future](https://www.tfw8b.com/product/divmmc-future-sinclair-zx-spectrum/), ZX Interface 2 and [MaxDuino](https://lotharek.pl/productdetail.php?id=409).
+Fully assembled ZX48K-AllInOne PCB in purple below. Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a-diagnostic-rom-image-for-the-zx-spectrum/), [divMMC Future](https://www.tfw8b.com/product/divmmc-future-sinclair-zx-spectrum/), ZX Interface 2 and [MaxDuino](https://lotharek.pl/productdetail.php?id=409).
 
 ![ZX48K-AllInOne_pcb](https://github.com/user-attachments/assets/0ce708af-3b30-4987-8fa8-6e7a6c544be5)
 
