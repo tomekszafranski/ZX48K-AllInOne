@@ -45,7 +45,7 @@ Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a
 
 ## Remarks
 
-* Unmarked components located near most of the ICs are 100nF decoupling capacitors.
+* Unmarked components located near most of the ICs are 100nF decoupling capacitors (P=2.5mm).
 
 * vLA82S+ is equipped with sound generator so if not needed Turbo Sound section can be omitted.
 
