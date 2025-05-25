@@ -8,7 +8,7 @@ Again, it has to be said that this is not by any means revolutionary work. There
 
 ## Modifications
 
-Compared to ZX48K-Essentials board, following modification have been added.
+Compared to ZX48K-Essentials board, following modification have been introduced.
 
 **Turbo Sound extension**
 
