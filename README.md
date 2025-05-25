@@ -41,8 +41,7 @@ Fully assembled ZX48K-AllInOne PCB in purple below.
 
 Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a-diagnostic-rom-image-for-the-zx-spectrum/), [divMMC Future](https://www.tfw8b.com/product/divmmc-future-sinclair-zx-spectrum/), ZX Interface 2 and [MaxDuino](https://lotharek.pl/productdetail.php?id=409).
 
-![ZX48K-AllInOne_board](https://github.com/user-attachments/assets/6df880a3-d68a-451f-9801-cffbcb8ff8c7)
-
+![ZX48K-AllInOne_board](https://github.com/user-attachments/assets/b58ee2c7-7a67-4dbb-a0df-c59e672da4fb)
 
 ## Remarks
 
