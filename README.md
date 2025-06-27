@@ -46,11 +46,11 @@ Tested with [Diagnostic ROM](https://blog.retroleum.co.uk/electronics-articles/a
 
 ## Remarks
 
-* Unmarked components located near most of the ICs are 100nF decoupling capacitors (P=2.5mm).
+* Unmarked components located near most of the ICs are 100nF decoupling capacitors (P=2.5mm)
   
-* As you can see I used miniature resistors however you can also used standard ones (P=7.62mm)
+* As you can see I used miniature resistors however you can also install standard ones (P=7.62mm)
 
-* vLA82S+ is equipped with sound generator so if not needed Turbo Sound section can be omitted or you can only install upper chip and have "standard" AY interface
+* vLA82S+ is equipped with sound generator so if not needed Turbo Sound section can be omitted or you can only install upper chip and have "standard" AY interface.
 
 Have fun!
 
