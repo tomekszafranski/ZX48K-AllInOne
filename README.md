@@ -12,7 +12,7 @@ Compared to ZX48K-Essentials board, following modification have been introduced.
 
 **Turbo Sound extension**
 
-Turbo Sound extension is based on original work of [NedoPC](http://www.nedopc.com/TURBOSOUND/ts.php) however, no output amplifier is used. Turbo Sound gives you 6 channels output. Clock divider is included so both Yamaha YM2149F or AY-3-8910 chips can be used. Channel mapping is ABC. Stereo output is available through additional jack connector. Mono TV sound can be selected by jumper (instead of output from vLA82S+ that has built-in write-only AY-compatible sound generator). Turbo Sound operation can be tested with AYtest_0.2.tap program (author unknown, but big thanks!).
+Turbo Sound extension is based on original work of [NedoPC](http://www.nedopc.com/TURBOSOUND/ts.php) however, no output amplifier is used. Turbo Sound gives you 6 channels output. Clock divider is included so both Yamaha YM2149F or AY-3-8910 chips can be used. Channel mapping is ABC. Stereo output is available through additional jack connector. Mono TV sound can be selected by jumper (instead of output from vLA82S+ that has built-in write-only AY-compatible sound generator). Turbo Sound operation can be tested with *AYtest_0.2.tap* program (author unknown, but big thanks!).
 
 **Kempston joystick interface**
 
