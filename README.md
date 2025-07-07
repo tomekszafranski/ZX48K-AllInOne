@@ -57,5 +57,5 @@ Have fun!
 Tomek
 
 > [!NOTE]
-> Disclaimer: This is my project that I’ve built and it works for me. You can do it as well but remember, you’re responsible for your doings and the consequences, not me.
+> Disclaimer: This is my project that I’ve built and it works for me. You can do it as well but remember, you’re responsible for your own doings and the consequences, not me.
 
