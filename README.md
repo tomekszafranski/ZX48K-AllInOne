@@ -1,4 +1,4 @@
-# ZX48K-AllInOne
+# ZX Spectrum 48K AllInOne version
 
 ## Introduction
 
