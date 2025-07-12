@@ -35,7 +35,7 @@ There is IDC16 connector for external keyboard. I don't know about any standard 
 
 KiCad project of the board.
 
-<img width="1308" height="856" alt="ZX48K-AllInOne_board" src="https://github.com/user-attachments/assets/db8391ff-0fef-4a7a-bdff-8d5f2c3f1d81" />
+<img width="1340" height="872" alt="ZX48K-AllInOne_board" src="https://github.com/user-attachments/assets/cb488423-2e2b-4dc7-bf47-6a3538f52220" />
 
 Fully assembled ZX48K-AllInOne PCB in purple below. 
 
