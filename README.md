@@ -16,7 +16,7 @@ Turbo Sound extension is based on original work of [NedoPC](http://www.nedopc.co
 
 **Kempston joystick interface**
 
-Commonly used version of Kempston joystick interface, similar to [KAY interface](https://github.com/konkotgit/KAY-Kempston-AY) with on/off jumper to disable it in case you connect other extension with joystick interface. Operation can be tested using IN 31 command.
+Commonly used version of Kempston joystick interface, similar to popular [KAY interface](https://github.com/konkotgit/KAY-Kempston-AY) with on/off jumper to disable it in case you connect other extension with joystick interface. Operation can be tested using IN 31 command.
 
 **80KB of RAM**
 
