@@ -33,7 +33,7 @@ There is IDC16 connector for external keyboard. I don't know about any standard 
 
 ## Board
 
-KiCad project of the board.
+Here is KiCad project of the board.
 
 <img src="ZX48K-AllInOne_board.png" />
 
