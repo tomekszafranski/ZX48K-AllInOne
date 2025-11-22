@@ -28,7 +28,7 @@ Since W27C512 EEPROM (64KB) is used there is the possibility to have four differ
 
 **External keyboard connector**
 
-There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adapter from ZX48K-RC2014 project.
+There is IDC16 connector for external keyboard. I don't know about any standard so I followed pin assignment described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). You can use original ZX Spectrum or ZX Spectrum+ keyboard, ZX81 keyboard or keyboards designed for Harlequin – one with tactile switches or one with mechanical switches using Keyboard adapter from ZX48K-RC2014 project (to be published soon...).
 
 
 ## Board
