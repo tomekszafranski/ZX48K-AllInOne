@@ -50,6 +50,12 @@ Fully assembled ZX48K-AllInOne PCB, tested with [Diagnostic ROM](https://blog.re
 
 * vLA82S+ is equipped with sound generator so if not needed Turbo Sound section can be omitted or you can only install upper chip and have "standard" AY interface.
 
+## Update Oct 2026
+
+Following changes has been made to PCB (now marked _version 6B_, previous version moved to subfolder):
+* EAR and MIC sockets that were swapped are now in right places - noticed by @PaddyB64
+* +9V that was previously missing has been added to edge connector.
+
 Have fun!
 
 Tomek
